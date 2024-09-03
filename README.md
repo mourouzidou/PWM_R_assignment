@@ -35,10 +35,15 @@ The goal of this project is to analyze the regulatory elements present in the up
 The substring with the smallest p-value for gluconeogenesis pathway is AATCTCGC and for glycolysis pathway AAAGACGC.
 
 These logos display the frequency of each nucleotide at each position within the motif, indicating the most conserved bases that likely play a significant role in gene regulation.
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3639ecd4-af6e-4fb9-b4eb-559e8aa615e2" alt="Sequence Logos" width="400"/>
+  <img src="https://github.com/user-attachments/assets/efa4ee36-cbae-4a5b-b4ea-0332b19c44e6" width="400"/>
+  <img src="https://github.com/user-attachments/assets/be35d6be-2c8c-4a00-a76a-fac05c85d909" width="400"/>
 </p>
-The heatmaps below represent the occurrence of these motifs across the genes in each pathway. Each row corresponds to a gene, and each column represents a position within the sequence. The red regions highlight where the motifs are strongly present. In both heatmaps, the widespread red color indicates a high occurrence of the key motifs across the genes in each pathway, signifying their potential importance in regulating the gene expressions in Glycolysis and Gluconeogenesis.
+
+The heatmaps below represent the occurrence of these motifs across the genes in each pathway. Each row corresponds to a region, and each column represents a position within the sequence. 
+The red regions highlight where the motifs are strongly present. In both heatmaps, the widespread red color indicates a high occurrence of the key motifs across the genes in each pathway, signifying their potential importance in regulating the gene expressions in Glycolysis and Gluconeogenesis.
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/731a45cb-1e16-4cf6-bfa3-d7081231f1a9" width="400"/>
   <img src="https://github.com/user-attachments/assets/cf231c3c-4723-4ae9-bf85-d98ee6db0ee8" width="400"/>
