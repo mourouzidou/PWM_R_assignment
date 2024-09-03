@@ -40,8 +40,10 @@ These logos display the frequency of each nucleotide at each position within the
 </p>
 The heatmaps below represent the occurrence of these motifs across the genes in each pathway. Each row corresponds to a gene, and each column represents a position within the sequence. The red regions highlight where the motifs are strongly present. In both heatmaps, the widespread red color indicates a high occurrence of the key motifs across the genes in each pathway, signifying their potential importance in regulating the gene expressions in Glycolysis and Gluconeogenesis.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/20dad610-fca6-439b-a5ce-91ffd0acf630" alt="Heatmaps" width="400"/>
+  <img src="https://github.com/user-attachments/assets/731a45cb-1e16-4cf6-bfa3-d7081231f1a9" width="400"/>
+  <img src="https://github.com/user-attachments/assets/cf231c3c-4723-4ae9-bf85-d98ee6db0ee8" width="400"/>
 </p>
+
 
 
 
